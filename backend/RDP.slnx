@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RDP.Application/RDP.Application.csproj" />
+    <Project Path="src/RDP.Domain/RDP.Domain.csproj" />
+    <Project Path="src/RDP.Infrastructure/RDP.Infrastructure.csproj" />
+    <Project Path="src/RDP.WebApi/RDP.WebApi.csproj" />
+  </Folder>
+</Solution>
